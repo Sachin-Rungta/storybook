@@ -275,7 +275,7 @@ Support us with a monthly donation and help us continue our activities. \[[Becom
 <a href="https://opencollective.com/storybook/backer/28/website" target="_blank"><img src="https://opencollective.com/storybook/backer/28/avatar.svg"></a>
 <a href="https://opencollective.com/storybook/backer/29/website" target="_blank"><img src="https://opencollective.com/storybook/backer/29/avatar.svg"></a>
 
-## License
+## License ##
 
 [MIT](https://github.com/storybookjs/storybook/blob/main/LICENSE)
 
