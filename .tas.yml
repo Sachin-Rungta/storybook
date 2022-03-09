@@ -3,7 +3,6 @@ framework: jest
 preRun:
   command:
     - yarn install
-    - yarn run build
 postMerge:
   pattern: 
     - "./app/**/*.spec.ts"
