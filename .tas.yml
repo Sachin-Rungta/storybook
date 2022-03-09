@@ -15,4 +15,5 @@ preMerge:
 postRun:
   command:
     - yarn --version
+jestVersion: 26.6.3
 version: 1.0
